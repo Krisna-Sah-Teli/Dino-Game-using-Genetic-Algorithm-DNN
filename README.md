@@ -1,0 +1,2 @@
+# Dino-Game-using-Genetic-Algorithm-DNN
+This is quite interesting project where genetic algorithm with multi neural network is used. Genetic algorithm helps to make the game autonomous and finally produces the number of players which can play without getting stroke with obstacles on path. Basically Genetic algorithm with the help of neural network helps to learn from previous strikes and produce next generation which can escape those obstacles easily.
